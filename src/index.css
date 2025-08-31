@@ -40,7 +40,7 @@ body {
   display: flex;
   justify-content: center;
   height: auto;
-  min-height: 100vh;
+  min-height: 300px;
   padding: 30px;
 }
 
@@ -117,7 +117,9 @@ body {
   width: 80%;
   margin: 0;
   padding: 0;
+  height: 300px;
   margin-top: 40px;
+  overflow: scroll;
 }
 
 .ul li {
